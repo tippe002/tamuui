@@ -1,0 +1,12 @@
+Hi Katie,
+Tried getting this done earlier but here it is.
+If possible we could make some changes to the application.
+
+1. In the licence plate search : the traffic violations cell is kind of cut off so if that cell could be made bigger we will be able to read it completely.
+
+2. Include a new navigation tab. The images attached in this email can be displayed one at a time when we press a short key. The key "P" isn't being used.
+
+3. The Notification tab, it would be great if we could get more notifications "repeated" when we press the "X" key.
+
+Thanks
+Swaroop Dinakar
